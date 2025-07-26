@@ -4,7 +4,7 @@ This project is an interactive **Road Accident Analysis Dashboard** created usin
 
 ## 📸 Dashboard Preview
 
-![Road Accident Dashboard](https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/road_accident_dashboard.png)
+![Road Accident Dashboard](DASHBOARD.png)
 
 
 ## 📊 Key Features
